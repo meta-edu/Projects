@@ -11,3 +11,7 @@ integration with third-party systems, will not be open for modifications and
 forks, as well as free for all parties. But Metarhia will provide payed support,
 consulting and adaptation services as a separate custom software development
 projects.
+
+## Metanet
+
+Decentralized network
