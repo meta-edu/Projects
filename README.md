@@ -14,4 +14,7 @@ projects.
 
 ## Metanet
 
-Decentralized network
+Distributed network for communication and messaging, file transfer and storage,
+persistent and reliable content and data publishing, version control, social
+communications, voice and video conferences, discussions, etc. Provides simple
+and secure fundamentals for Metarhia community and Educational programs.
