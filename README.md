@@ -18,3 +18,10 @@ Distributed network for communication and messaging, file transfer and storage,
 persistent and reliable content and data publishing, version control, social
 communications, voice and video conferences, discussions, etc. Provides simple
 and secure fundamentals for Metarhia community and Educational programs.
+
+## Metaclass
+
+Information system for Metarhia educational programs. Implements the knowledge
+tracking, personal professional profile and skill set, educational events
+calendar and budgeting, recording results of examinations and certification,
+tooling for interaction in groups and project activities.
