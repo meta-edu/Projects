@@ -11,3 +11,10 @@ integration with third-party systems, will not be open for modifications and
 forks, as well as free for all parties. But Metarhia will provide payed support,
 consulting and adaptation services as a separate custom software development
 projects.
+
+## Metanet
+
+Distributed network for communication and messaging, file transfer and storage,
+persistent and reliable content and data publishing, version control, social
+communications, voice and video conferences, discussions, etc. Provides simple
+and secure fundamentals for Metarhia community and Educational programs.
