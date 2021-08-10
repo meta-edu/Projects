@@ -1,6 +1,6 @@
 # Metaeducation Projects
 
-## Metahealth
+## [Metahealth](https://github.com/me-gi/Metahealth)
 
 An open-source MIS (medical information system) covers digital patient cards and
 medical history, diagnoses and prescriptions, analyzes and other examination. It
@@ -12,14 +12,14 @@ forks, as well as free for all parties. But Metarhia will provide payed support,
 consulting and adaptation services as a separate custom software development
 projects.
 
-## Metanet
+## [Metanet](https://github.com/me-gi/Metanet)
 
 Distributed network for communication and messaging, file transfer and storage,
 persistent and reliable content and data publishing, version control, social
 communications, voice and video conferences, discussions, etc. Provides simple
 and secure fundamentals for Metarhia community and Educational programs.
 
-## Metaclass
+## [Metaclass](https://github.com/me-gi/Metaclass)
 
 Information system for Metarhia educational programs. Implements the knowledge
 tracking, personal professional profile and skill set, educational events
@@ -33,7 +33,7 @@ surveys, grids and trees, browsing datasets, insert, delete, and edit entities,
 check rights, prepare printing, internationalization, hints and validation,
 design system.
 
-## Metarhia
+## [Metarhia](https://github.com/metarhia)
 
 Technology stack and for secure and lightweight private clouds, high-intensive
 network applications and distributed systems. Metarhia includes: Impress
