@@ -25,3 +25,10 @@ Information system for Metarhia educational programs. Implements the knowledge
 tracking, personal professional profile and skill set, educational events
 calendar and budgeting, recording results of examinations and certification,
 tooling for interaction in groups and project activities.
+
+## Metaforms
+
+User interface framework with following functionality: components, forms,
+surveys, grids and trees, browsing datasets, insert, delete, and edit entities,
+check rights, prepare printing, internationalization, hints and validation,
+design system.
