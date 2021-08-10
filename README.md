@@ -32,3 +32,13 @@ User interface framework with following functionality: components, forms,
 surveys, grids and trees, browsing datasets, insert, delete, and edit entities,
 check rights, prepare printing, internationalization, hints and validation,
 design system.
+
+## Metarhia
+
+Technology stack and for secure and lightweight private clouds, high-intensive
+network applications and distributed systems. Metarhia includes: Impress
+Application Server, metavm (script loader with vm isolation for node.js),
+metalog, metacom (communication protocol for Metarhia stack with rpc, events,
+and binary streams), metarhiaconfiguration, metaschema (metadata schema and
+interface definition language), metawatch, metasql, metautils, metadomain,
+metatests, etc.
