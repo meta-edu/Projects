@@ -1,5 +1,9 @@
 # Metaeducation Projects
 
+Sections: software, production, services, supply
+
+# Software and ICT Projects
+
 ## [Metahealth](https://github.com/me-gi/Metahealth)
 
 An open-source MIS (medical information system) covers digital patient cards and
@@ -42,3 +46,9 @@ metalog, metacom (communication protocol for Metarhia stack with rpc, events,
 and binary streams), metarhiaconfiguration, metaschema (metadata schema and
 interface definition language), metawatch, metasql, metautils, metadomain,
 metatests, etc.
+
+# Production
+
+# Services
+
+# Supply
