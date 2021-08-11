@@ -1,6 +1,7 @@
 # Metaeducation Projects
 
-Sections: software, production, services, supply
+Sections: [software](#software-and-ict-projects), [production](#production),
+[services](#services), [supply](#supply)
 
 # Software and ICT Projects
 
