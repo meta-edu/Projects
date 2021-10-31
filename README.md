@@ -58,6 +58,13 @@ Metarhia projects. It is deeply integrated with the subsystem of accounts and
 rights, provides security and a journal with the history of the movement of
 funds.
 
+## [Metarhia accounts](https://github.com/metarhia/Accounts)
+
+User accounts, contacts, permissions and authentication subsystem for all
+Metarhia projects. It contains database structure for holding needed data, and
+security journal, code for account registration, identification, sign in and
+recovery accounts, n-factor authentication, biometry, etc.
+
 # Production
 
 # Services
