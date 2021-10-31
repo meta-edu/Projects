@@ -48,6 +48,13 @@ and binary streams), metarhiaconfiguration, metaschema (metadata schema and
 interface definition language), metawatch, metasql, metautils, metadomain,
 metatests, etc.
 
+## [Metapay](https://github.com/metarhia/Metapay)
+
+Internal payments subsystem and incoming/outgoing payment gateway for all
+Metarhia projects. It is deeply integrated with the subsystem of accounts and
+rights, provides security and a journal with the history of the movement of
+funds.
+
 # Production
 
 # Services
