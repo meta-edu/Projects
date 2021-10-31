@@ -37,7 +37,7 @@ and binary streams), metarhiaconfiguration, metaschema (metadata schema and
 interface definition language), metawatch, metasql, metautils, metadomain,
 metatests, etc.
 
-## [Metanet](https://github.com/me-gi/Metanet)
+## [Metanet](https://github.com/metarhia/Metanet)
 
 Distributed network for communication and messaging, file transfer and storage,
 persistent and reliable content and data publishing, version control, social
