@@ -1,6 +1,7 @@
 # Metaeducation Projects
 
-Sections: [software](#software-and-ict-projects), [production](#production),
+Sections: [software](#software-and-ict-projects),
+[metarhia](#metarhia-techstack-and-infrastructure), [production](#production),
 [services](#services), [supply](#supply)
 
 # Software and ICT Projects
@@ -17,13 +18,6 @@ forks, as well as free for all parties. But Metarhia will provide payed support,
 consulting and adaptation services as a separate custom software development
 projects.
 
-## [Metanet](https://github.com/me-gi/Metanet)
-
-Distributed network for communication and messaging, file transfer and storage,
-persistent and reliable content and data publishing, version control, social
-communications, voice and video conferences, discussions, etc. Provides simple
-and secure fundamentals for Metarhia community and Educational programs.
-
 ## [Metaclass](https://github.com/me-gi/Metaclass)
 
 Information system for Metarhia educational programs. Implements the knowledge
@@ -31,12 +25,7 @@ tracking, personal professional profile and skill set, educational events
 calendar and budgeting, recording results of examinations and certification,
 tooling for interaction in groups and project activities.
 
-## Metaforms
-
-User interface framework with following functionality: components, forms,
-surveys, grids and trees, browsing datasets, insert, delete, and edit entities,
-check rights, prepare printing, internationalization, hints and validation,
-design system.
+# Metarhia techstack and infrastructure
 
 ## [Metarhia](https://github.com/metarhia)
 
@@ -47,6 +36,20 @@ metalog, metacom (communication protocol for Metarhia stack with rpc, events,
 and binary streams), metarhiaconfiguration, metaschema (metadata schema and
 interface definition language), metawatch, metasql, metautils, metadomain,
 metatests, etc.
+
+## [Metanet](https://github.com/me-gi/Metanet)
+
+Distributed network for communication and messaging, file transfer and storage,
+persistent and reliable content and data publishing, version control, social
+communications, voice and video conferences, discussions, etc. Provides simple
+and secure fundamentals for Metarhia community and Educational programs.
+
+## Metaforms
+
+User interface framework with following functionality: components, forms,
+surveys, grids and trees, browsing datasets, insert, delete, and edit entities,
+check rights, prepare printing, internationalization, hints and validation,
+design system.
 
 ## [Metapay](https://github.com/metarhia/Metapay)
 
