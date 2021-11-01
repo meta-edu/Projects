@@ -25,6 +25,13 @@ tracking, personal professional profile and skill set, educational events
 calendar and budgeting, recording results of examinations and certification,
 tooling for interaction in groups and project activities.
 
+## [Metalocal](https://github.com/metarhia/Metalocal)
+
+Complex solution for smart local area, township, housing, city, other dwelling
+locations. Metalocal includes digital map of local area: services and busineses,
+communication and booking, reference information, people self-organizing,
+surveys, payments, social activities, governance, solving problems, etc.
+
 # Metarhia techstack and infrastructure
 
 ## [Metarhia](https://github.com/metarhia)
