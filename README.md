@@ -76,6 +76,13 @@ Metarhia projects. It contains database structure for holding needed data, and
 security journal, code for account registration, identification, sign in and
 recovery accounts, n-factor authentication, biometry, etc.
 
+## [Metafleet](https://github.com/Metaserverless/Metafleet)
+
+Metarhia cloud fleet manager for resource monitoring, health checks, add and
+remove servers, install and uninstall applications, load balancing, admin
+notifications, problem detection, journal viewer, backup and restore, editing
+and applying configuration, setup integrations.
+
 # Production
 
 # Services
