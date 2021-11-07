@@ -32,6 +32,10 @@ locations. Metalocal includes digital map of local area: services and busineses,
 communication and booking, reference information, people self-organizing,
 surveys, payments, social activities, governance, solving problems, etc.
 
+## [Chronotope](Time management system https://github.com/meta-edu/Chronotope)
+
+Time and resource planning and management system.
+
 # Metarhia techstack and infrastructure
 
 ## [Metarhia](https://github.com/metarhia)
