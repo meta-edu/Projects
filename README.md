@@ -6,7 +6,7 @@ Sections: [software](#software-and-ict-projects),
 
 # Software and ICT Projects
 
-## [Metahealth](https://github.com/me-gi/Metahealth)
+## [Metahealth](https://github.com/meta-edu/Metahealth)
 
 An open-source MIS (medical information system) covers digital patient cards and
 medical history, diagnoses and prescriptions, analyzes and other examination. It
@@ -18,7 +18,7 @@ forks, as well as free for all parties. But Metarhia will provide payed support,
 consulting and adaptation services as a separate custom software development
 projects.
 
-## [Metaclass](https://github.com/me-gi/Metaclass)
+## [Metaclass](https://github.com/meta-edu/Metaclass)
 
 Information system for Metarhia educational programs. Implements the knowledge
 tracking, personal professional profile and skill set, educational events
